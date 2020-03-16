@@ -1,2 +1,2 @@
-# SIT202-BlinkName
+# SIT210-BlinkName
 Particle IO - LED - First Name
