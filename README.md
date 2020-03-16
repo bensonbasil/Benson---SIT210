@@ -1,2 +1,2 @@
-# SIT210-BlinkName
-Particle IO - LED - First Name
+# SIT210
+Particle IO - Arduino Raspberry Pi 3
